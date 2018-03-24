@@ -1,5 +1,7 @@
 # Transpo Pal
 [![Build Status](https://travis-ci.org/brandonandre/Transpo-Pal.svg?branch=master)](https://travis-ci.org/brandonandre/Transpo-Pal)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c3ef016db18333d97e76/maintainability)](https://codeclimate.com/github/brandonandre/Transpo-Pal/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c3ef016db18333d97e76/test_coverage)](https://codeclimate.com/github/brandonandre/Transpo-Pal/test_coverage)
 
 Open Source bus application for the Ottawa-Gatineau Area.
 
